@@ -40,6 +40,9 @@
     <orderEntry type="library" scope="PROVIDED" name="safe_yaml (v1.0.5, ruby-2.6.5-p114 (2)) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sassc (v2.3.0, ruby-2.6.5-p114 (2)) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="terminal-table (v1.8.0, ruby-2.6.5-p114 (2)) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thread_safe (v0.3.6, ruby-2.6.5-p114 (2)) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tzinfo (v1.2.7, ruby-2.6.5-p114 (2)) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tzinfo-data (v1.2019.3, ruby-2.6.5-p114 (2)) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="unicode-display_width (v1.7.0, ruby-2.6.5-p114 (2)) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="wdm (v0.1.1, ruby-2.6.5-p114 (2)) [gem]" level="application" />
   </component>
