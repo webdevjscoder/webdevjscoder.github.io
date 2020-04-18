@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8cfa4a9-d0e6-41df-ad9d-bd85420db4c3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/webdevjscoder.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webdevjscoder.github.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-04-13-why-did-i-decide-to-study-software-engineering.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +80,7 @@
       <updated>1587151834325</updated>
       <workItem from="1587151836028" duration="8478000" />
       <workItem from="1587163024848" duration="4176000" />
+      <workItem from="1587234671069" duration="882000" />
     </task>
     <servers />
   </component>
@@ -90,28 +92,28 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587157559053" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1587167810228">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1587235506792">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587167810228" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1587167810228">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587235506792" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1587235506792">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587167810228" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1587167810228">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587235506792" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1587235506792">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587167810228" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1587167810228">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587235506792" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1587235506792">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587167810228" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587235506792" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1587156598375">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1587156598375" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/webdevjscoder_github_io@start_server.rcov" NAME="start_server Coverage Results" MODIFIED="1587164309803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="webdevjscoder.github.io" />
+    <SUITE FILE_PATH="coverage/webdevjscoder_github_io@start_server.rcov" NAME="start_server Coverage Results" MODIFIED="1587235506779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="webdevjscoder.github.io" />
   </component>
 </project>
